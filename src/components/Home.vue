@@ -1,5 +1,6 @@
 .<template>
   <div>
+    <div>123</div>
    <el-button type="info" @click="logout">退出</el-button>
   </div>
 </template>
